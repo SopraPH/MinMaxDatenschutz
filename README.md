@@ -1,0 +1,2 @@
+# MinMaxDatenschutz
+Datenschutzerklärung
